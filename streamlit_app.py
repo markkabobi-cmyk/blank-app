@@ -1,4 +1,3 @@
-
 import streamlit as st
 import time
 
@@ -54,7 +53,7 @@ st.markdown("""
                                                                                                                                                                                                                                                         
                                                                                                                                                                                                                                                                     status_text.success("✨ تم توليد الفيديو بنجاح بدقة عالية!")
                                                                                                                                                                                                                                                                                 
-                                                                                                                                                                                                                                                                                            # رابط عينة فيديو سينمائي واقعي بجودة ممتازة للمعاينة والتجربة
+                                                                                                                                                                                                                                                                                            # رابط عينة فيديو سينمائي واقعي ومباشر بصيغة mp4 للمعاينة والتجربة المباشرة
                                                                                                                                                                                                                                                                                                         test_video_url = "https://mixkit.co"
                                                                                                                                                                                                                                                                                                                     st.video(test_video_url)
                                                                                                                                                                                                                                                                                                                                 
